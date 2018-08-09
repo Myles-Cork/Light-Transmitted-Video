@@ -1,5 +1,13 @@
 # Light-Transmitted-Video
-Research towards sending video using visible light 
+Research towards sending video using visible light
+
+Reqirements:
+
+Gnuradio
+UHD
+VLC Media Player
+Gstreamer
+
 
 Files:
 
